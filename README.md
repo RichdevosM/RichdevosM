@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Richdevos
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RichdevosM/RichdevosM)
+
 I'm a passionate developer with experience in MEAN stack. Here are some of my favorite projects:
 
 ## 🛠️ Projects
