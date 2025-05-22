@@ -6,7 +6,8 @@ I'm a passionate developer with experience in MEAN stack. Here are some of my fa
 ## 🛠️ Projects
 
 ### 1. E-recordz
-![Project Screenshot](images/erecord - image.png)
+![Project Screenshot](https://github.com/RichdevosM/RichdevosM/blob/main/images/erecord%20-%20image.png
+)
 e-Recordz is a digital record-keeping platform that allows users to securely store and manage various types of personal or professional records. Users can upload and access reports, videos, audios, and receive real-time notifications. This tool is ideal for maintaining organized, multimedia-rich documentation in one place.
 Key Features:
 
@@ -30,7 +31,8 @@ Storage: Local/PouchDB (for offline support)
 [🔗 View Project](https://github.com/yourusername/project1)
 
 ### 2. E-patrolz
-![Project Screenshot](images/project2.gif)
+![Project Screenshot](https://github.com/RichdevosM/RichdevosM/blob/main/images/epatrolz%20-%20image.png
+)
 ePatrolz is a smart patrolling management application designed for security teams and field workers. It enables real-time location tracking, QR code-based checkpoint verification, instant reporting, and live notifications to ensure efficient and accountable patrol operations.
 
 Key Features:
@@ -60,7 +62,8 @@ APIs: Geolocation, QR Scanner
 
 
 ### 3. Screen-fusion
-![Project Screenshot](images/project2.gif)
+![Project Screenshot]( https://github.com/RichdevosM/RichdevosM/blob/main/images/scrren-fusion%20image.png
+)
 ScreenFusion is an AI-powered platform that transforms written text into compelling videos using advanced generative models. By combining text-to-video AI pipelines with seamless social media integration, ScreenFusion allows users to easily generate, preview, and upload creative content directly to platforms like YouTube and Instagram.
 
 Key Features:
@@ -94,7 +97,7 @@ Storage: Cloud (e.g., Firebase Storage, AWS S3)
 
 
 ### 4. mlm
-![Project Screenshot](images/project2.gif)
+
 MLM eCommerce is a multi-level marketing platform combined with an online store, designed to promote products through a referral-based network. Users can purchase products, refer others, and build a downline to earn rewards. The system supports real-time reward tracking, product management, and hierarchical user structures (parent-child relationships).
 
 🛒 Full-featured eCommerce platform for product listing and purchasing
@@ -122,7 +125,7 @@ Payment Integration: Custom Implementation
 
 
 ### 5.Boutique(Website)
-![Project Screenshot](images/project2.gif)
+![Project Screenshot]( https://github.com/RichdevosM/RichdevosM/blob/main/images/samepinch-%20image.png)
 Boutique eCommerce is a custom-designed online shopping platform built for a boutique clothing brand. Developed as a freelance project, it features a modern UI, secure checkout, and smooth customer experience. The site allows users to browse and purchase fashion products, with seamless payment integration and real-time database updates.
 
 Key Features:
