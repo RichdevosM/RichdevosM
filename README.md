@@ -3,6 +3,8 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RichdevosM/RichdevosM)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichdevosM&show_icons=true&theme=radical)
+
 I'm a passionate developer with experience in MEAN stack. Here are some of my favorite projects:
 
 ## 🛠️ Projects
