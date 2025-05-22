@@ -6,7 +6,7 @@ I'm a passionate developer with experience in MEAN stack. Here are some of my fa
 ## 🛠️ Projects
 
 ### 1. E-recordz
-![Project Screenshot](images/project1.png)
+![Project Screenshot](images/epatrolz-image.png)
 e-Recordz is a digital record-keeping platform that allows users to securely store and manage various types of personal or professional records. Users can upload and access reports, videos, audios, and receive real-time notifications. This tool is ideal for maintaining organized, multimedia-rich documentation in one place.
 Key Features:
 
