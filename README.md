@@ -28,7 +28,7 @@ Backend: LoopBack 4 (Node.js)
 Database: MongoDB
 
 Storage: Local/PouchDB (for offline support)
-[🔗 View Project](https://github.com/yourusername/project1)
+[🔗 View Project]( https://app.erecordz.com)
 
 ### 2. E-patrolz
 ![Project Screenshot](https://github.com/RichdevosM/RichdevosM/blob/main/images/epatrolz%20-%20image.png
@@ -58,7 +58,7 @@ Database: MongoDB
 Mobile Support: PWA / Responsive Design
 
 APIs: Geolocation, QR Scanner
-[🔗 View Project](https://github.com/yourusername/project2)
+[🔗 View Project]( https://app.epatrolz.com)
 
 
 ### 3. Screen-fusion
@@ -91,7 +91,7 @@ Auth: Firebase Auth (Google, Facebook)
 Video Upload APIs: YouTube, Instagram
 
 Storage: Cloud (e.g., Firebase Storage, AWS S3)
-[🔗 View Project](https://github.com/yourusername/project2)
+[🔗 View Project](https://app.screen-fusion.com)
 
 ...
 
@@ -121,7 +121,6 @@ Database: MongoDB
 Auth & Referral Logic: Custom implementation
 
 Payment Integration: Custom Implementation
-[🔗 View Project](https://github.com/yourusername/project2)
 
 
 ### 5.Boutique(Website)
@@ -151,7 +150,7 @@ Database: Firestore
 Payments: Razorpay
 
 Deployment: Firebase Hosting
-[🔗 View Project](https://github.com/yourusername/project2)
+[🔗 View Project](https://same-pinch.com)
 
 ## 🔧 Skills
 - JavaScript / TypeScript
@@ -161,6 +160,6 @@ Deployment: Firebase Hosting
 - Offline-first apps (PouchDB, etc.)
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/rich-devos-309b79216)
+- Email: richdevos413@gmail.com
 
